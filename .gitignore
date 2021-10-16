@@ -47,3 +47,7 @@ ChangeLog
 *~
 .*.swp
 .*sw?
+
+# Ignore example
+example/
+.idea/
