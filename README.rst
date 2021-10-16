@@ -100,5 +100,5 @@ Finally, add the flow visualization using the following directive:
 Links
 -----
 
-- Source: https://github.com/sp1thas/sphinxcontrib-prefectviz
-- Bugs: https://github.com/sp1thas/sphinxcontrib-prefectviz/issues
+- Source: https://github.com/sphinx-contrib/sphinxcontrib-prefectviz
+- Bugs: https://github.com/sphinx-contrib/sphinxcontrib-prefectviz/issues
