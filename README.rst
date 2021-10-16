@@ -68,9 +68,14 @@ and the :code:`flow.py` looks like:
     def hello_world():
         print("Hello world")
 
-    with Flow(name="foo") as f:
+    with Flow(name="foo") as flow:
         hello_world()
 
+Finally, add the flow visualization using the following directive:
+
+.. code-block::
+
+    .. flowviz:: flow.flow
 
 
 Links

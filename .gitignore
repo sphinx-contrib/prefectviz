@@ -26,6 +26,7 @@ cover/
 .coverage*
 .tox
 .venv
+venv/
 .pytest_cache/
 .mypy_cache/
 
